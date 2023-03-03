@@ -18,7 +18,8 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 2. Copy and paste this github link to view a public repo: https://github.com/Lilhomie42/recftor-web/tree/feature/recftor-html
 
-3. Then go to repo settings to pages and 
+3. Then go to repo settings to pages and visit page button,
+or click this link: https://lilhomie42.github.io/recftor-web/
 
 
 ## Usage
@@ -29,13 +30,13 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ![alt text](assets/images/screenshot.png)
 
+
+
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+I collabed with some of my fellow classmates on finding the unorganized/repetitive code.
 
 ## License
 
@@ -53,12 +54,5 @@ Badges aren't necessary, but they demonstrate street cred. Badges let other deve
 
 ## Features
 
-If your project has a lot of features, list them here.
+feature/recftor-html branch
 
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
