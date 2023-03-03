@@ -86,23 +86,23 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead, .benefit-cost, .benefit-brand {
+.sub-topics {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3, .benefit-cost h3, .benefit-brand h3 {
+.sub-topics h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+.sub-topics img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+.main-topics {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
