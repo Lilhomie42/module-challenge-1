@@ -14,7 +14,7 @@ While I was refactoring I applied the scouting rule the index.html and style.css
 
 1. Go to Github Website and create an account or sign in
 
-2. Copy and paste this github link to view a public repo: https://github.com/Lilhomie42/recftor-web/tree/feature/recftor-html
+2. Copy and paste this github link to view a public repo: https://github.com/Lilhomie42/recftor-web/tree/main
 
 3. Then go to repo settings to pages and visit page button,
 or click this link: https://lilhomie42.github.io/recftor-web/
@@ -22,11 +22,10 @@ or click this link: https://lilhomie42.github.io/recftor-web/
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+I provided screenshot of my refactor website.
+Follow this path to see screenshot:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+`assets/images/lilhomie42.github.io_recftor-web_ (1).png`
 
 
 
@@ -36,11 +35,7 @@ I collabed with some of my fellow classmates on finding the unorganized/repetiti
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+🏆 MIT License
 
 ## Badges
 
